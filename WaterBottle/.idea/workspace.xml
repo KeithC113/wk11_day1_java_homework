@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bf41140-0df5-4ad2-9217-5e6e980693aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ee1oNvRIT9tZjPNgAqxzA1usla" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager" selected="Application.Runner">
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <module name="WaterBottle" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaterBottleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WaterBottle" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WaterBottleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="JUnit.WaterBottleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bf41140-0df5-4ad2-9217-5e6e980693aa" name="Default Changelist" comment="" />
+      <created>1594667418537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594667418537</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="202" key="GridCell.Tab.0.bottom" timestamp="1594669629155">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1358" height="202" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1594669315500" />
+    <state width="1358" height="202" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1594669629155" />
+    <state width="1358" height="202" key="GridCell.Tab.0.center" timestamp="1594669629155">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1358" height="202" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1594669315499" />
+    <state width="1358" height="202" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1594669629155" />
+    <state width="1358" height="202" key="GridCell.Tab.0.left" timestamp="1594669629154">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1358" height="202" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1594669315498" />
+    <state width="1358" height="202" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1594669629154" />
+    <state width="1358" height="202" key="GridCell.Tab.0.right" timestamp="1594669629155">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1358" height="202" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1594669315499" />
+    <state width="1358" height="202" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1594669629155" />
+  </component>
+</project>
