@@ -9,21 +9,26 @@ public class WaterBottleTest {
 
     @Before
     public void before(){
-        waterBottle = new WaterBottle (200);
+        waterBottle = new WaterBottle (100);
     }
     @Test
     public void hasVolume(){
-        assertEquals(200, waterBottle.getVolume());
+        assertEquals(100, waterBottle.getVolume());
     }
 
     @Test
     public void drinkLiquid(){
-        assertEquals(190, waterBottle.drinkLiquid(10));
+        assertEquals(90, waterBottle.drinkLiquid(10));
     }
 
     @Test
     public void emptyBottle(){
         assertEquals(0, waterBottle.emptyBottle());
+    }
+
+    @Test
+    public void fillBottle(){
+        assertEquals(100, waterBottle.fillBottle(100));
     }
 
 }
